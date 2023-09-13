@@ -2,6 +2,8 @@
 
 HTML/CSS code used to generate my Anki setup.
 
+"このコードでこの関数は何をするのですか？"
+
 ## Demo
 
 Make the text bold in the Anki editor to get coloured bold text. Underline code to make text coloured, bold, and underlined. The highlighting colour is set to the trim of the card.
